@@ -3,7 +3,7 @@
 
 ## 영속성 컨텍스트
 - 엔티티를 영구 저장하는 환경이라는 뜻
-- EntityManager.persist(entitiy);
+- EntityManager.persist(entitisy);
 - 엔티티의 생명주기
     - 비영속(new/transient): 영속성 컨텍스트와 전혀 관계가 없는 새로운 상태
     - 영속(managed): 영속성 컨텍스트에 관리되는 상태
